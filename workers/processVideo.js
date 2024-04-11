@@ -27,8 +27,8 @@ async function main() {
 
 async function transcribe(videoPath) {
   // Extract audio from video
-  await extractAudio(videoPath, "audio/audio.mp3");
-  const transcription = await transcribeAudio("audio/audio.mp3");
+  await extractAudio(videoPath, "/tmp/audio.mp3");
+  const transcription = await transcribeAudio("/tmp/audio.mp3");
 
   let transcriptionOutput = {};
   for (let i = 0; i < transcription.segments.length; i++) {
