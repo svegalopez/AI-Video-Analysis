@@ -20,17 +20,9 @@ This project provides a comprehensive solution for video analysis, enabling user
 
 ### Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine
 
-   ```sh
-   git clone https://your-repository-link-here.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```sh
-   cd video-analysis-service
-   ```
+2. Navigate to the project directory
 
 3. Install NPM packages:
 
@@ -39,7 +31,6 @@ This project provides a comprehensive solution for video analysis, enabling user
    ```
 
 4. Set up your environment variables:
-   - Rename `.env.example` to `.env`
    - Populate `OPENAI_API_KEY` with your OpenAI API key
 
 ### Running the Server
@@ -50,7 +41,7 @@ This project provides a comprehensive solution for video analysis, enabling user
    npm start
    ```
 
-2. The server will start, and by default, it listens on port 5078. You can access it by navigating to `http://localhost:5078` in your browser.
+2. The server will start, and by default, it listens on port 5078
 
 ## Start the client
 
