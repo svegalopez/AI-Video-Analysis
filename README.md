@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@Code\_\_Head](https://twitter.com/Code__Head)
+Sebastian - [@Code\_\_Head](https://twitter.com/Code__Head)
 
 ---
 
