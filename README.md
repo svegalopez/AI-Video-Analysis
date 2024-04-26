@@ -49,7 +49,7 @@ This project provides a comprehensive solution for video analysis, enabling user
 
 ## Instructions & Demo
 
-Demo can be found [here](https://20240401t145522-dot-smart-app-419018.uc.r.appspot.com/).
+Demo can be found [here](https://vimeo.com/933434334?share=copy).
 
 1. Upload a video
 2. Wait until the video is done processing
