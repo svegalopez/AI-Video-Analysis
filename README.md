@@ -38,7 +38,7 @@ This project provides a comprehensive solution for video analysis, enabling user
 1. Start the server with:
 
    ```sh
-   npm start
+   npm run dev
    ```
 
 2. The server will start, and by default, it listens on port 5078
